@@ -1,8 +1,8 @@
 ## Hello there, こんにちは 👋
 
-# Software Engineer - with professional experience spanning teams from UK to Japan, and roles in consulting in operations management.
+## Software Engineer - with professional experience spanning teams from UK to Japan, and roles in consulting in operations management.
 
-# Various projects
+## Various projects
 
 Kitt Offices (Professional): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
 Autoware (Open source): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history

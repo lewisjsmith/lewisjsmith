@@ -1,11 +1,12 @@
 ## Hello there, こんにちは 👋
 
-## Software Engineer - with professional experience spanning teams from UK to Japan, and roles in consulting in operations management.
 
-## Various projects
+**Software Engineer** with professional experience spanning teams from UK to Japan.
 
-Kitt Offices (Professional): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
-Autoware (Open source): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history
+
+**Notable projects**
+- Kitt Offices (Professional): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
+- Autoware (Open source): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history
 
 <!--
 **lewisjsmith/lewisjsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

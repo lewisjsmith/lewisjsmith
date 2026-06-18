@@ -3,7 +3,7 @@
 
 **Software Engineer** with professional experience spanning teams from UK to Japan.
 
-Recent graduate of the competitive Daiwa Anglo-Japanese foundation scholarship, info in the link below 🇯🇵  
+Recent graduate of the competitive Daiwa Anglo-Japanese Foundation scholarship, info in the link below 🇯🇵  
 https://dajf.org.uk/scholarships/daiwa-scholarship/scholars/daiwa-scholars-2024
 
 

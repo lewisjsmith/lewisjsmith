@@ -8,8 +8,9 @@ https://dajf.org.uk/scholarships/daiwa-scholarship/scholars/daiwa-scholars-2024
 
 
 **Notable projects**
-- Kitt Offices (Professional): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
-- Autoware (Open source): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history
+- Autoware (Open source, SE): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history
+- Kitt Offices (Professional, Lead SE): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
+- Bolt6 (Professional, Business sector manager): https://www.fivb.com/volleyball-world-and-bolt6-partner-to-revolutionize-the-sports-challenge-system/
 
 <!--
 **lewisjsmith/lewisjsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

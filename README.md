@@ -3,6 +3,9 @@
 
 **Software Engineer** with professional experience spanning teams from UK to Japan.
 
+Recent graduate of the competitive Daiwa Anglo-Japanese foundation scholarship, info in the link below 🇯🇵  
+https://dajf.org.uk/scholarships/daiwa-scholarship/scholars/daiwa-scholars-2024
+
 
 **Notable projects**
 - Kitt Offices (Professional): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/

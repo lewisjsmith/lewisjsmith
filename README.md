@@ -1,13 +1,14 @@
 ## Hello there, こんにちは 👋
 
 
-**Software Engineer** with professional experience spanning teams from UK to Japan.
+**Software Engineer** with professional experience spanning teams from the UK to Japan.
 
 Recent graduate of the competitive Daiwa Anglo-Japanese Foundation scholarship, info in the link below 🇯🇵  
 https://dajf.org.uk/scholarships/daiwa-scholarship/scholars/daiwa-scholars-2024
 
+**Currently working on:** https://github.com/lewisjsmith/goban
 
-**Notable projects**
+### Notable projects:
 - Autoware (Open source, SE): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history
 - Kitt Offices (Professional, Lead SE): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
 - Bolt6 (Professional, Business sector manager): https://www.fivb.com/volleyball-world-and-bolt6-partner-to-revolutionize-the-sports-challenge-system/

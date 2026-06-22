@@ -9,8 +9,8 @@ https://dajf.org.uk/scholarships/daiwa-scholarship/scholars/daiwa-scholars-2024
 **Currently working on:** https://github.com/lewisjsmith/goban
 
 ### Notable projects:
-- Autoware (Open source, SE): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history
-- Kitt Offices (Professional, Lead SE): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
+- Autoware (Open source, Software): https://github.com/autowarefoundation/autoware_tools/tree/main/planning/autoware_route_history
+- Kitt Offices (Professional, Project-lead, Software): https://www.linkedin.com/feed/update/urn:li:activity:7206969715729035264/
 - Bolt6 (Professional, Business sector manager): https://www.fivb.com/volleyball-world-and-bolt6-partner-to-revolutionize-the-sports-challenge-system/
 
 <!--
